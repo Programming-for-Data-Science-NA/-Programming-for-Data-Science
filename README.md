@@ -1,4 +1,4 @@
-# -Programming-for-Data-Science
+# Programming for Data Science
 
 Introduction: The Programming for Data Science with Python Nanodegree program offers learners the opportunity to learn the most
 important programming languages used by data scientists today. Get started with the fascinating field of data science and
